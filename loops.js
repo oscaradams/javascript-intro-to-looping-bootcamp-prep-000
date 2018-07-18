@@ -24,3 +24,7 @@ function whileLoop(Number){
   }
   return "done"
 }
+
+function doWhileLoop(array){
+  
+}
