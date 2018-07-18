@@ -17,10 +17,10 @@ function forLoop(array){
 
 function whileLoop(Number){
   countdown = Number
-  while (Number > 0){
-    if (Number > 1){console.log(-- countdown)
-    }
-    else {console.log('done')}
+  while (countdown > 0){
+    -- countdown
+    if (countdown === 0){console.log('done')}
+    else{console.log(countdown)}
     
   }
 }
