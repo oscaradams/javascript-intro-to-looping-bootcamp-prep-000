@@ -31,7 +31,7 @@ function maybeTrue() {
 
 function doWhileLoop(array){
   newArray = array
-  do { newArray.
+  do { newArray.shift()
     
   }
 }
