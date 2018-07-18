@@ -22,5 +22,5 @@ function whileLoop(Number){
     console.log(countdown)
     
   }
-  retuen "done"
+  return "done"
 }
