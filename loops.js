@@ -30,7 +30,8 @@ function maybeTrue() {
 }
 
 function doWhileLoop(array){
-  do {
+  newArray = array
+  do { newArray.
     
   }
 }
