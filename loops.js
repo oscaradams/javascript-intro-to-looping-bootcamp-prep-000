@@ -19,7 +19,7 @@ function whileLoop(Number){
   countdown = Number
   while (countdown > 0){
     -- countdown
-    if (countdown === 0){console.log(countdown, 'done')}
+    if (countdown === 0){console.log("done")}
     else{console.log(countdown)}
     
   }
