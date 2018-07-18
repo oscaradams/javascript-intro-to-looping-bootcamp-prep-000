@@ -31,7 +31,8 @@ function maybeTrue() {
 
 function doWhileLoop(array){
   newArray = array
-  do { newArray.shift()
-    
+  do { newArray.shift();
+  return newArray
   }
+  while(newArray.legth() === 0 && maybeTrue())
 }
